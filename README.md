@@ -89,8 +89,8 @@ Most of my projects involve:
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromzn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromzn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromzn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromzn&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
@@ -100,8 +100,6 @@ Most of my projects involve:
 ---
 
 ## Selected Focus
-
-```ts
 const engineer = {
   name: "Pedro Menzinger",
   role: "Full Stack Engineer",
@@ -110,3 +108,12 @@ const engineer = {
   architecture: ["REST APIs", "Modular Systems", "Scalable Applications"],
   mindset: ["Code Quality", "Maintainability", "Production Readiness"],
 };
+Contact
+<div align="center">
+
+GitHub
+ • LinkedIn
+ • Portfolio
+
+</div>
+<div align="center"> <sub> Full Stack Engineer focused on building modern, scalable and production-ready systems. </sub> </div>
