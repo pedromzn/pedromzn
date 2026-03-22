@@ -100,6 +100,8 @@ Most of my projects involve:
 ---
 
 ## Selected Focus
+
+```ts
 const engineer = {
   name: "Pedro Menzinger",
   role: "Full Stack Engineer",
@@ -108,12 +110,20 @@ const engineer = {
   architecture: ["REST APIs", "Modular Systems", "Scalable Applications"],
   mindset: ["Code Quality", "Maintainability", "Production Readiness"],
 };
-Contact
+```
+
+---
+
+## Contact
+
 <div align="center">
 
-GitHub
- • LinkedIn
- • Portfolio
+[GitHub](https://github.com/pedromzn) • [LinkedIn](https://www.linkedin.com/) • [Portfolio](#)
 
 </div>
-<div align="center"> <sub> Full Stack Engineer focused on building modern, scalable and production-ready systems. </sub> </div>
+
+---
+
+<div align="center">
+  <sub>Full Stack Engineer focused on building modern, scalable and production-ready systems.</sub>
+</div>
