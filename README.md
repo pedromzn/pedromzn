@@ -1,124 +1,112 @@
-<h1 align="center">Pedro Menzinger</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Developer</strong>
+# Pedro Menzinger
+
+### Full Stack Engineer
+
+Building robust systems end-to-end — from architecture and APIs to interface and deployment.
+
+<p>
+  <img src="https://img.shields.io/badge/Front--end-React%20%2B%20Vite%20%2B%20TypeScript-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Back--end-Node.js%20%2B%20TypeScript%20%2B%20Express-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-REST%20APIs-0f172a?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Building complete systems from <strong>code to deploy</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--end-React%20%2B%20Vite%20%2B%20TypeScript-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Back--end-Node.js%20%2B%20TypeScript%20%2B%20Express-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-REST%20APIs-111827?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## About me
+## About
 
-I am a **Full Stack Developer** focused on building complete, scalable and well-structured systems, working across the entire product flow — from architecture and implementation to integration and deployment.
+I’m a **Full Stack Developer** focused on designing and shipping complete systems with clarity, structure and real-world maintainability.
 
-I build modern applications with a strong emphasis on:
+My work goes beyond isolated features.  
+I build applications across the entire flow:
 
-- **robust front-end architecture**
-- **typed and scalable back-end services**
-- **REST API design and integration**
-- **clean modular structure**
-- **real-world maintainability**
-- **delivery from scratch to production**
+- product-oriented front-end architecture
+- scalable back-end services
+- REST API design and integration
+- modular code organization
+- business rule implementation
+- deployment and production readiness
 
-My main stack is:
+I work mainly with a modern TypeScript stack, using:
 
-- **Front-end:** React, Vite, TypeScript
-- **Back-end:** Node.js, TypeScript, Express
+- **React + Vite + TypeScript** on the front-end
+- **Node.js + TypeScript + Express** on the back-end
+
+My approach is centered on **clean architecture, strong API contracts, maintainable codebases and production-focused delivery**.
 
 ---
 
-## Core expertise
+## Core Expertise
 
 - Full Stack application development
 - End-to-end system design
 - REST API architecture and integration
-- Modular and maintainable codebases
-- Modern front-end engineering
-- Back-end services with Node.js and TypeScript
-- Production-ready project delivery
+- Front-end engineering with React and TypeScript
+- Back-end services with Node.js, Express and TypeScript
+- Modular and scalable project structure
+- Delivery from code to deploy
 
 ---
 
-## Tech stack
+## Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind,nodejs,express,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## What I build
+## Engineering Mindset
 
-I work on projects involving:
+I like building systems that are not only functional, but also:
 
-- complete web systems
-- front-end and back-end integration
-- API-first applications
-- interactive dashboards and platforms
-- structured, scalable interfaces
-- production-focused full stack architecture
+- well-structured
+- easy to maintain
+- scalable over time
+- clear in responsibilities
+- ready for real product evolution
 
----
-
-## Development mindset
-
-I do not focus only on isolated features.
-
-I focus on building **complete systems** with solid foundations, clear architecture, clean integration between layers, and a structure that supports growth, maintenance and real product evolution.
-
-My goal is to deliver software that is not only functional, but also **organized, scalable and ready for production**.
+I value architecture, consistency, integration quality and software that can grow without turning into chaos.
 
 ---
 
-## Featured technologies
+## What I Build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git" />
-</p>
+Most of my projects involve:
+
+- complete web platforms
+- full stack applications
+- API-first systems
+- interactive dashboards
+- structured interfaces
+- integrations between front-end and back-end services
 
 ---
 
-## GitHub stats
+## GitHub Stats
 
-<p align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromzn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromzn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=pedromzn&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## Contact
+## Selected Focus
 
-<p align="center">
-  <a href="https://github.com/pedromzn">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-  •
-  <a href="#">Portfolio</a>
-</p>
-
----
-
-<p align="center">
-  <i>Full Stack Developer focused on building complete systems with React, Vite, TypeScript, Node.js, Express and REST APIs.</i>
-</p>
+```ts
+const engineer = {
+  name: "Pedro Menzinger",
+  role: "Full Stack Engineer",
+  frontend: ["React", "Vite", "TypeScript"],
+  backend: ["Node.js", "TypeScript", "Express"],
+  architecture: ["REST APIs", "Modular Systems", "Scalable Applications"],
+  mindset: ["Code Quality", "Maintainability", "Production Readiness"],
+};
