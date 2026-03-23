@@ -118,7 +118,7 @@ const engineer = {
 
 <div align="center">
 
-[GitHub](https://github.com/pedromzn) • [LinkedIn](https://www.linkedin.com/) • [Portfolio](#)
+[GitHub](https://github.com/pedromzn) • [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pedro-menzinger/)) • [Portfolio](#)
 
 </div>
 
