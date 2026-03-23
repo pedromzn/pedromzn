@@ -83,9 +83,19 @@ Most of my projects involve:
 - interactive dashboards
 - structured interfaces
 - integrations between front-end and back-end services
+---
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromzn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromzn&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=pedromzn&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
-
 
 ## Selected Focus
 
@@ -106,7 +116,7 @@ const engineer = {
 
 <div align="center">
 
-[GitHub](https://github.com/pedromzn) • [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pedro-menzinger/)) • [Portfolio](https://portfolio-alpha-brown-tcoe6u55ci.vercel.app/)
+[GitHub](https://github.com/pedromzn) • [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/pedro-menzinger/)) • [Portfolio](https://portfolio-alpha-brown-tcoe6u55ci.vercel.app/)
 
 </div>
 
